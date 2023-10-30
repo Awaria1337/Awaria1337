@@ -1,4 +1,3 @@
-
 <h3 align="center">Hi ,Im Mert A passionate Full Stack Frontend developer from türkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
