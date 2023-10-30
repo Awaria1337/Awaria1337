@@ -1,4 +1,6 @@
-<h1 align="center">Merhaba 👋, ben Mert</h1><h3 align="center">Türkiye'den tutkulu bir frontend geliştirici</h3><h3 align="left">Connect with me:</h3>
+<h1 align="center">Merhaba 👋, ben Mert</h1>
+<h3 align="center">Türkiye'den tutkulu bir frontend geliştirici</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 
