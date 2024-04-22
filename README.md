@@ -5,7 +5,7 @@
 <a href="https://instagram.com/awariasalvatore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awariasalvatore" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/awariasalvatore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="awariasalvatore" height="30" width="40" /></a>
 </p>
-<h3 align="left">Support ❤️ :3</h3>
+
 <p><a href="https://www.buymeacoffee.com/Awaria1337"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Awaria1337" /></a></p><br><br>
 
 <h3 align="left">Languages and Tools:</h3>
