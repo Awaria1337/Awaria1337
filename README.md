@@ -35,5 +35,5 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awaria1337&show_icons=true&locale=en" alt="awaria1337 align="center" "/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awaria1337&show_icons=true&locale=en" class="bg-dark" alt="awaria1337 align="center" "/></p>
 
